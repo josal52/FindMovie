@@ -1,7 +1,8 @@
 # FindMovie
 
 **A Flutter app for searching movies from a database.**  
-This app includes a **Search** page to find movies and a **Favorites** page to view and manage your favorite movies.
+This app includes a Search page for finding movies and a Favorites page for viewing and managing your favorite movies.
+It’s my first project where I aimed to implement clean architecture with a feature-first design.
 
 ## Features
 
