@@ -15,6 +15,16 @@ It’s my first project where I aimed to implement clean architecture with a fea
 2. Use the **Search Page** to search for movies by name.
 3. On the **Favorites Page**, view all movies added to your favorites list.
 
+## Showcase
+
+Here are some screenshots of the app in action:
+
+![Showcase image 1](https://github.com/user-attachments/assets/10341234-5743-485f-b82c-942998ff5f67)
+![Showcase image 2](https://github.com/user-attachments/assets/869bb5a1-aa57-4d1a-8367-daac6b0c8bbc)
+![Showcase image 3](https://github.com/user-attachments/assets/007c7ddc-750b-4f1d-b0b3-51ac8dbfec05)
+
+
+
 ## License
 
 This project is open-source and available under the MIT License.
